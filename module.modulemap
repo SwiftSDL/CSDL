@@ -1,5 +1,0 @@
-module CSDL [system] {
-  header "CSDL.h"
-  link "SDL2"
-  export *
-}
